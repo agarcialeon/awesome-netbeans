@@ -116,6 +116,18 @@ Interesting resource: :cool:
 ### Productivity
 
 * [Emmet (Zen Coding)](https://github.com/emmetio/netbeans) - Support for Emmet shortcuts.
+* [Move to Group](https://github.com/caronchen/netbeans-movetogroup-plugin) - Moves a project to group of projects getting a better project organization.
+* [Open in Explorer Action](https://github.com/chhh/OpenInExplorerAction) - Opens a folder in system explorer.
+
+### Development
+
+* [EasyPMD](https://github.com/giancosta86/EasyPmd) - Integrates PMD in NetBeans in a seamless way.
+* [Checkstyle Beans](https://www.sickboy.cz/checkstyle/download.html) - Support for Checkstyle inside NetBeans.
+* [Additional Hints](https://github.com/markiewb/nb-additional-hints) - Adds more hints to the editor during development.
+
+### Git
+
+* [NetBeans Git Branch in StatusBar](https://github.com/Chris2011/nb-git-branch-in-statusbar) - See the current git branch in the status bar of NetBeans.
 
 ## Snippets & Gists <a name="snippets-&-gists"></a>
 
@@ -123,6 +135,7 @@ Interesting resource: :cool:
 
 ## Themes / Skins <a name="ui-themes-skins"></a>
 
+* [NetBeans Themes](https://netbeansthemes.com/) - Site with multiple themes for NetBeans.
 * [Dracula Theme for NetBeans](https://github.com/dracula/netbeans/releases/tag/v0.1.0) - A good and popular theme that has support for multiple other IDEs. NOTE: Remember to select FlatDark look and feel in options menu for better support.
 * [Solarized](https://github.com/fentie/netbeans-colors-solarized) - Solarized Dark color scheme, implemented for NetBeans.
 
