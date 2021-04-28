@@ -160,13 +160,13 @@ Interesting resource: :cool:
 
 # Contributing <a name="contributing"></a>
 
-Please see [CONTRIBUTING](https://github.com/agarcialeon/awesome-netbeans/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/agarcialeon/awesome-netbeans/blob/main/CONTRIBUTING.md) for details.
 
 Thanks to all the [contributors](https://github.com/agarcialeon/awesome-netbeans/graphs/contributors), this wouldn't be possible without you! 
 
 # Code of Conduct <a name="code-of-conduct"></a>
 
-See [Code of Conduct](https://github.com/agarcialeon/awesome-netbeans/blob/master/CODE-OF-CONDUCT.md).
+See [Code of Conduct](https://github.com/agarcialeon/awesome-netbeans/blob/main/CODE-OF-CONDUCT.md).
 
 # :memo: To be done <a name="to-do"></a>
 
