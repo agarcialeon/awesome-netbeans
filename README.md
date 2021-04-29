@@ -110,6 +110,17 @@ Interesting resource: :cool:
 
 **NOTE**: Apache NetBeans previous plugin portal is down at the moment of writing this document so in order to use plugins its needed to find and download them on Github or another resources and install them manually from the Plugins window.
 
+### Language Support
+
+* [Flow NetBeans Markdown](https://github.com/madflow/flow-netbeans-markdown) - Works with NetBeans 12.3 but it's currently being reworked in this other [repo](https://github.com/jkost/MarkdownViewerForNetBeans).
+* [Angular CLI](https://github.com/Chris2011/NBAngularCLI) - Support for Angular Projects
+* [VueJS NetBeans](https://github.com/Zwaen91/vuejs-netbeans) - Vue support.
+* [NetBeans Angular2 Code Templates](https://github.com/Chris2011/netbeans-angular2-code-templates) - Code Templates for Angular 2+ projects.
+* [NBTS](https://github.com/Chris2011/nbts) - Support for Typescript files.
+* [NB Laravel Plugin](https://github.com/nbphpcouncil/nb-laravel-plugin) - Laravel Framework plugin for NetBeans 7.4+.
+* [NB-ESLint](https://github.com/joakim-eriksson/nb-eslint) - ESLint support for nerbeans.
+* [Vaadin](https://github.com/vaadin/netbeans-plugin) - Plugin to support Vaadin projects.
+
 ### Formatting
 
 * [NetBeans Google Java Code Formatter Plugin](https://github.com/mcdonnell-john/nb-google-java-code-formatter-plugin) - Allows to format your Java code following Google style guide.
@@ -120,20 +131,32 @@ Interesting resource: :cool:
 * [Emmet (Zen Coding)](https://github.com/emmetio/netbeans) - Support for Emmet shortcuts.
 * [Move to Group](https://github.com/caronchen/netbeans-movetogroup-plugin) - Moves a project to group of projects getting a better project organization.
 * [Open in Explorer Action](https://github.com/chhh/OpenInExplorerAction) - Opens a folder in system explorer.
+* [Off-Plugin](https://github.com/sickill/off-plugin) - Plugin for Netbeans and JEdit for quick finding and opening files by typing just few characters.
+* [Vim NetBeans](https://github.com/yodiaditya/vim-netbeans) - Making your VIM like Netbeans for editing Python, PHP, HTML, JS and etc. It's support with Autocomplete, Check syntax error, Python debugger and many else.
+* [NetBeansKeyPromoter](https://github.com/GeertjanWielenga/NetBeansKeyPromoter) - Status line shows key press of UI element such as menu item.
+* [NbQuickSearchExtender](https://github.com/Chris2011/NbQuickSearchExtender) - Extends the quick search of netbeans with google, stackoverflow, npm and wikipedia search provider.
+* [NbScratchFile](https://github.com/Chris2011/NbScratchFile) - Scratch Files for Netbeans - Create files without having a project.
+* [NB CodeOutline (Minimap)](https://github.com/markiewb/nb-codeoutline) - This is a NetBeans plugin which adds a code overview/outline for the current editor.
+* [EditorConfig NetBeans](https://github.com/welovecoding/editorconfig-netbeans) - A NetBeans IDE plugin supporting the EditorConfig standard.
 
 ### Development
 
 * [EasyPMD](https://github.com/giancosta86/EasyPmd) - Integrates PMD in NetBeans in a seamless way.
 * [Checkstyle Beans](https://www.sickboy.cz/checkstyle/download.html) - Support for Checkstyle inside NetBeans.
 * [Additional Hints](https://github.com/markiewb/nb-additional-hints) - Adds more hints to the editor during development.
-
-### Markdown
-
-* [Flow NetBeans Markdown](https://github.com/madflow/flow-netbeans-markdown) - Works with NetBeans 12.3 but it's currently being reworked in this other [repo](https://github.com/jkost/MarkdownViewerForNetBeans).
+* [NetBeans Encoding Plugin](https://github.com/junichi11/netbeans-encoding-plugin) - Encoding support.
 
 ### Git
 
 * [NetBeans Git Branch in StatusBar](https://github.com/Chris2011/nb-git-branch-in-statusbar) - See the current git branch in the status bar of NetBeans. Works on Version 12.3 of NetBeans, but needs a restart.
+* [Gitignore](https://github.com/junichi11/netbeans-gitignore-io-plugin) - Support for gitignore.io.
+
+### Collaboration
+
+### Tools
+
+* [MMD Plugin](https://github.com/raydac/netbeans-mmd-plugin) - Free mind map and PlantUML editor with plugins for both NetBeans and Intellij.
+* [QuickOpener](https://github.com/dzsessona/QuickOpener-NetBeans) - Sometimes while programming in NetBeans you want to explore a particular file that you are editing on the file system browser, or maybe launch a command in a terminal to do something with it.
 
 ## Snippets & Gists <a name="snippets-&-gists"></a>
 
@@ -144,6 +167,8 @@ Interesting resource: :cool:
 * [NetBeans Themes](https://netbeansthemes.com/) - Site with multiple themes for NetBeans.
 * [Dracula Theme for NetBeans](https://github.com/dracula/netbeans/releases/tag/v0.1.0) - A good and popular theme that has support for multiple other IDEs. NOTE: Remember to select FlatDark look and feel in options menu for better support.
 * [Solarized](https://github.com/fentie/netbeans-colors-solarized) - Solarized Dark color scheme, implemented for NetBeans.
+* [Sublime Theme](https://github.com/jaspal747/sublime-theme-for-netbeans) - Sublime themes for Netbeans. There are more out there.
+* [Atom Theme](https://github.com/mirkobrombin/Atom-Netbeans-Theme) - Atom style theme for Netbeans.
 
 ## Databases <a name="databases"></a>
 
@@ -216,6 +241,7 @@ Interesting resource: :cool:
 * [NetBeans Help Guides](https://netbeans.apache.org/help/index.html)
 * [NetBeans Wiki](https://netbeans.apache.org/wiki/index.asciidoc)
 * [NetBeans Javadoc](https://bits.netbeans.org/dev/javadoc/)
+* [NetBeans on Github](https://github.com/apache/netbeans)
 
 # :busts_in_silhouette: Communities <a name="communities"></a>
 
@@ -228,6 +254,8 @@ Interesting resource: :cool:
 * [NetBeans on Twitter](https://twitter.com/netbeans) - Official NetBeans Twitter Account.
 
 ### NetBeans Developers <a name="follow-netbeans-developers"></a>
+
+* [Junichi Yamamoto](https://github.com/junichi11) - Contributor
 
 # :question: Frequently Asked Questions (FAQ) <a name="faq"></a>
 
