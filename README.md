@@ -125,9 +125,13 @@ Interesting resource: :cool:
 * [Checkstyle Beans](https://www.sickboy.cz/checkstyle/download.html) - Support for Checkstyle inside NetBeans.
 * [Additional Hints](https://github.com/markiewb/nb-additional-hints) - Adds more hints to the editor during development.
 
+### Markdown
+
+* [Flow NetBeans Markdown](https://github.com/madflow/flow-netbeans-markdown) - Works with NetBeans 12.3 but it's currently being reworked in this other [repo](https://github.com/jkost/MarkdownViewerForNetBeans).
+
 ### Git
 
-* [NetBeans Git Branch in StatusBar](https://github.com/Chris2011/nb-git-branch-in-statusbar) - See the current git branch in the status bar of NetBeans.
+* [NetBeans Git Branch in StatusBar](https://github.com/Chris2011/nb-git-branch-in-statusbar) - See the current git branch in the status bar of NetBeans. Works on Version 12.3 of NetBeans, but needs a restart.
 
 ## Snippets & Gists <a name="snippets-&-gists"></a>
 
