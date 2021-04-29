@@ -108,7 +108,7 @@ Interesting resource: :cool:
 
 * [Official Plugin Repository](https://plugins.netbeans.apache.org/)
 
-**NOTE**: Apache NetBeans previous plugin portal is down at the moment of writing this document so in order to use plugins its needed to find and download them on Github or another resources and install them manually from the Plugins window.
+❗**NOTE**: Apache NetBeans previous plugin portal is down at the moment of writing this document so in order to use plugins its needed to find and download them on Github or another resources and install them manually from the Plugins window.
 
 ### Language Support
 
