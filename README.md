@@ -108,6 +108,8 @@ Interesting resource: :cool:
 
 * [Official Plugin Repository](https://plugins.netbeans.apache.org/)
 
+**NOTE**: Apache NetBeans previous plugin portal is down at the moment of writing this document so in order to use plugins its needed to find and download them on Github or another resources and install them manually from the Plugins window.
+
 ### Formatting
 
 * [NetBeans Google Java Code Formatter Plugin](https://github.com/mcdonnell-john/nb-google-java-code-formatter-plugin) - Allows to format your Java code following Google style guide.
