@@ -187,6 +187,26 @@ Interesting resource: :cool:
 
 * [Official Tutorials Page](https://netbeans.apache.org//kb/index.html)
 
+### Plugin Development (NetBeans Modules)
+
+🚧 Under construction
+
+#### Project Template
+
+#### Language Support
+
+#### File Support
+
+#### Syntax Highlighting
+
+#### Error Hints
+
+#### Code Completion
+
+#### Navigator Panel
+
+#### Signing and Sharing
+
 ## :key: Shortcuts <a name="shortcuts"></a>
 
 ## :paperclip: Other references <a name="other-references"></a>
