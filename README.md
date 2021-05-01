@@ -110,6 +110,8 @@ Interesting resource: :cool:
 
 ❗**NOTE**: Apache NetBeans previous plugin portal is down at the moment of writing this document so in order to use plugins its needed to find and download them on Github or another resources and install them manually from the Plugins window.
 
+* [NetBeans Community Plugin List](https://cwiki.apache.org/confluence/display/NETBEANS/Community+plugins)
+
 ### Language Support
 
 * [Flow NetBeans Markdown](https://github.com/madflow/flow-netbeans-markdown) - Works with NetBeans 12.3 but it's currently being reworked in this other [repo](https://github.com/jkost/MarkdownViewerForNetBeans).
@@ -199,6 +201,11 @@ Interesting resource: :cool:
 
 * [Beginning NetBeans IDE for Java Developers](https://www.amazon.es/Beginning-NetBeans-IDE-Java-Developers/dp/1484212584)(2015)
 * [Pro Apache NetBeans: Building Applications on the Rich Client Platform](https://www.amazon.es/Pro-Apache-NetBeans-Building-Applications/dp/1484253698)(2019)
+* [Apache NetBeans Platform for Beginners](https://leanpub.com/nbp4beginners)
+* [The Definitive Guide to NetBeans™ Platform 7](https://www.apress.com/gp/book/9781430241010)
+* [NetBeans Platform 6.9 Developer's Guide](https://www.packtpub.com/product/netbeans-platform-6-9-developer-s-guide/9781849511766)
+* [The Definitive Guide to NetBeans Platform](https://www.apress.com/gp/book/9781430224174)
+* [Rich Client Programming: Plugging into the NetBeans Platform](https://www.amazon.com/Rich-Client-Programming-Plugging-NetBeans/dp/0132354802)
 
 ### :newspaper: Blogs <a name="blogs"></a>
 
@@ -255,6 +262,9 @@ Interesting resource: :cool:
 
 ### NetBeans Developers <a name="follow-netbeans-developers"></a>
 
+* [Geertjan Wielenga's Blog](https://blogs.oracle.com/geertjan/)
+* [Tonny Kohar's Blog](http://blogs.kiyut.com/tonny/)
+* [Ton Epple](https://eppleton.de/)
 * [Junichi Yamamoto](https://github.com/junichi11) - Contributor
 
 # :question: Frequently Asked Questions (FAQ) <a name="faq"></a>
