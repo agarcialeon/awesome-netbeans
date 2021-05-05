@@ -32,20 +32,22 @@
 	- [Icons](#icons)
 	- [Tags](#tags)
 - [Categories](#categories)
-  - [Internationalization & Localization (I18n & L10n)](#internationalization-localization)
-  - [Logging](#logging)
-  - [Error Reporting](#error-reporting)
-  - [Debugging](#debugging)
+  	- [Guides](#guides) 
+  		- [Frameworks](#frameworks) 
+  		- [Debugging](#debugging)
+  		- [Logging](#logging)
+  		- [Error Reporting](#error-reporting)
+  		- [Internationalization & Localization (I18n & L10n)](#internationalization-localization)
+  		- [Databases](#databases)
+		- [VCS (Version Control Systems)](#vcs)
+		- [Continuous Integration (CI)](#continuous-integration)
+		- [Testing](#testing)
   - [Plugins](#plugins) 
 	- [Formatting](#formatting)
   - [Snippets & Gists](#snippets-&-gists)
   - [Themes / Skins](#ui-themes-skins)	
-  - [Databases](#databases)
-  - [VCS (Version Control Systems)](#vcs)
-  - [Continuous Integration (CI)](#continuous-integration)
-  - [Testing](#testing)
   - [Customization](#customization)
-  - [Extensibility](#extensibility)
+  	- [Extending the IDE](#extensibility)
 - [Learning Resources](#learning-resources)
   - [Tips and Tricks](#tips-tricks)
   - [Books](#books)
@@ -96,13 +98,34 @@ Interesting resource: :cool:
 
 # :bookmark: Categories <a name="categories"></a>
 
-## :us: :uk: Internationalization & Localization (I18n & L10n) <a name="internationalization-localization"></a>
+## Guides <a name="guides"></a>
 
-## Logging <a name="logging"></a>
+### Frameworks <a name="framorks"></a>
 
-## Error Reporting  <a name="error-reporting"></a>
+* [Introduction to Spring Web MVC](https://netbeans.apache.org//kb/docs/web/quickstart-webapps-spring.html)
 
-## Debugging  <a name="debugging"></a>
+### Debugging  <a name="debugging"></a>
+
+* [Using the Visual Debugger in NetBeans IDE](http://netbeans.apache.org/kb/docs/java/debug-visual.html)
+* [Debugging C/C++ Projects](https://netbeans.apache.org//kb/docs/cnd/debugging.html)
+* [Debugging PHP Source Code in the NetBeans IDE](http://netbeans.apache.org/kb/docs/php/debugging.html)
+
+### Logging <a name="logging"></a>
+
+### Error Reporting  <a name="error-reporting"></a>
+
+### :us: :uk: Internationalization & Localization (I18n & L10n) <a name="internationalization-localization"></a>
+
+### Databases <a name="databases"></a>
+
+### VCS (Version Control Systems) <a name="vcs"></a>
+
+* [Using Git in Apache NetBeans](http://netbeans.apache.org/kb/docs/ide/git.html)
+* [Working With a Team Server in NetBeans IDE](https://netbeans.apache.org//kb/docs/ide/team-servers.html)
+
+### Continuous Integration <a name="continuous-integration"></a>
+
+### Testing <a name="testing"></a>
 
 ## :electric_plug: Plugins <a name="plugins"></a>
 
@@ -172,19 +195,11 @@ Interesting resource: :cool:
 * [Sublime Theme](https://github.com/jaspal747/sublime-theme-for-netbeans) - Sublime themes for Netbeans. There are more out there.
 * [Atom Theme](https://github.com/mirkobrombin/Atom-Netbeans-Theme) - Atom style theme for Netbeans.
 
-## Databases <a name="databases"></a>
-
-## VCS (Version Control Systems) <a name="vcs"></a>
-
-## Continuous Integration <a name="continuous-integration"></a>
-
-## Testing <a name="testing"></a>
-
 ## :sunglasses: Customization <a name="customization"></a>
 
 * [How to display Emojis in NetBeans](https://ourcodeworld.com/articles/read/1492/how-to-force-apache-netbeans-to-display-utf-8-unicode-characters-emojis-in-the-editor-properly) - Simple tutorial on how to display emojis on NetBeans editor.
 
-## Extensibility <a name="extensibility"></a>
+### Extending the IDE <a name="extensibility"></a>
 
 * [Custom Hints](https://blogs.oracle.com/geertjan/netbeans-java-hints:-quick-dirty-guide) - Create your own custom hints to apply changes to your code.
 * [NetBeans Module for HTML/JSP palette](https://netbeans.apache.org/tutorials/nbm-palette-api1.html)
