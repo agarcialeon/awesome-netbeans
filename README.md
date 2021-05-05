@@ -211,6 +211,7 @@ Interesting resource: :cool:
 
 * [Multi Caret Selection](https://blogs.oracle.com/geertjan/preview:-multicursor-selection-in-netbeans-ide-part-2) - Write / delete in multiple lines at the same time.
 * [Rectangular Selection](https://blogs.oracle.com/netbeansphp/rectangular-selection) - Similar to multi caret selection but with restricting it to a rectangle shape.
+* [Formatting SQL code in NetBeans](https://user-images.githubusercontent.com/18080123/116778749-09266d00-aa9e-11eb-826c-de254bbfc27e.mp4)
 
 ### :books: Books <a name="books"></a>
 
