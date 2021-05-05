@@ -199,17 +199,40 @@ Interesting resource: :cool:
 
 ### :books: Books <a name="books"></a>
 
-* [Beginning NetBeans IDE for Java Developers](https://www.amazon.es/Beginning-NetBeans-IDE-Java-Developers/dp/1484212584)(2015)
-* [Pro Apache NetBeans: Building Applications on the Rich Client Platform](https://www.amazon.es/Pro-Apache-NetBeans-Building-Applications/dp/1484253698)(2019)
-* [Apache NetBeans Platform for Beginners](https://leanpub.com/nbp4beginners)
+#### Working with NetBeans IDE
+
+* [Pro Apache NetBeans: Building Applications on the Rich Client Platform](https://www.amazon.es/Pro-Apache-NetBeans-Building-Applications/dp/1484253698) -  Ioannis Kostaras et. al. (2019), Apress. Includes also some chapters about NetBeans RCP.
+* [Beginning NetBeans IDE for Java Developers](https://www.amazon.es/Beginning-NetBeans-IDE-Java-Developers/dp/1484212584) - Wielenga G. (2015), APress.
+* [Developing Applications with NetBeans IDE (HTML Version)](https://docs.oracle.com/netbeans/nb82/netbeans/NBDAG/toc.htm) | [PDF](https://docs.oracle.com/netbeans/nb81/netbeans/NBDAG.pdf) - Oracle (2016). There is also a 8.0 (2014) version in [PDF](https://docs.oracle.com/cd/E50453_01/doc.80/e50452.pdf) and [HTML](https://docs.oracle.com/cd/E50453_01/doc.80/e50452/toc.htm).
+* [Java EE 7 Development with NetBeans 8](https://www.amazon.es/Java-Development-NetBeans-David-Heffelfinger/dp/1783983523) - Heffelfinger D.R. (2015), Packt.
+* [Mastering NetBeans](https://www.amazon.es/Mastering-NetBeans-David-Salter/dp/1785282646) - Salter D. (2015), Packt.
+* [NetBeans IDE 8 Cookbook](https://www.amazon.es/NetBeans-IDE-Cookbook-David-Salter/dp/1782167765) - Salter D. & Dantas R. (2014), Packt.
+* [Instant NetBeans IDE How-to](https://www.amazon.es/Instant-NetBeans-How-Atul-Palandurkar/dp/1782163441) - Palandurkar* A. (2013), Packt.
+* [Java EE 6 Development with NetBeans 7](https://www.amazon.es/Java-Development-Netbeans-David-Heffelfinger/dp/1849512701) - Heffelfinger D.R. (2011), Packt.
+* [NetBeans IDE 7 Cookbook](https://www.amazon.es/Netbeans-Ide-Cookbook-Rhawi-Dantas/dp/1849512507) - Dantas R. (2011), Packt.
+* [Netbeans Ruby and Rails IDE with JRuby](https://www.amazon.es/NetBeans-Ruby-Rails-JRuby-Firstpress-ebook/dp/B0754NJ133) - Kutler C. & Leonard B. (2009), APress.
+* [Building SOA-Based Composite Applications Using NetBeans IDE 6](https://www.amazon.es/Building-SOA-Based-Composite-Applications-NetBeans-ebook/dp/B005C9711U) - Salter D. & Jennings F. (2008), Packt.
+* [Java EE 5 Development with NetBeans 6](Java EE 5 Development with NetBeans 6) - Heffelfinger D.R. (2008), Packt.
+* [Pro NetBeans IDE 5.5 Enterprise Edition](https://www.amazon.es/Pro-Netbeans-Ide-5-5-Enterprise/dp/1590597885) - Myatt, A. (2007), APress.
+* [NetBeans IDE Field Guide: Developing Desktop, Web, Enterprise, And Mobile Applications](https://www.amazon.com/NetBeans%C2%BF-IDE-Field-Guide-Applications/dp/0131876201/) - Champenois L. et. al. (2005), Pearson P T R.
+* [NetBeans: The Definitive Guide](https://www.amazon.es/NetBeans-Definitive-Guide-Classique-Us/dp/0596002807) - Bourdeau T. et. al. (2002), O'Reilly.
+
+#### Rich Client Platform (RCP)
+
 * [The Definitive Guide to NetBeans™ Platform 7](https://www.apress.com/gp/book/9781430241010)
 * [NetBeans Platform 6.9 Developer's Guide](https://www.packtpub.com/product/netbeans-platform-6-9-developer-s-guide/9781849511766)
+* [Apache NetBeans Platform for Beginners](https://leanpub.com/nbp4beginners)
 * [The Definitive Guide to NetBeans Platform](https://www.apress.com/gp/book/9781430224174)
 * [Rich Client Programming: Plugging into the NetBeans Platform](https://www.amazon.com/Rich-Client-Programming-Plugging-NetBeans/dp/0132354802)
+* [JavaFX for NetBeans Platform](https://www.amazon.es/JavaFX-Client-Programming-NetBeans-Platform-ebook/dp/B00NLH98NE) - Anderson P. & Anderson G. (2015), Addison-Wesley.
+* [Pro Netbeans IDE 6 Rich Client Platform Edition](https://www.amazon.es/NetBeans-Client-Platform-Experts-Voice/dp/1590598954) - Myatt A. (2008), APress.
+* [Practical API Design: Confessions of a Java Framework Architect](https://www.amazon.es/Practical-API-Design-Confessions-Framework/dp/1430209739) - Tulach J. (2008), APress.
 
 ### :newspaper: Blogs <a name="blogs"></a>
 
 * [Official NetBeans Blog](https://blogs.apache.org/netbeans/)
+* [NetBeans RCP Recipes](https://nbrcp.wordpress.com/)
+* [NetBeansRCP - Learning the NetBeans Platform](https://netbeansrcp.wordpress.com/)
 
 ### :tv:  Videos <a name="videos"></a>
 
